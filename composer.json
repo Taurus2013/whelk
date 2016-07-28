@@ -2,6 +2,7 @@
     "name": "whelk/tools",
     "type": "library",
     "require": {
+        "leo1992/tools": "dev-master"
     },
     "license": "MIT",
     "authors": [

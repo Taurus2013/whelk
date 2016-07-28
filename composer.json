@@ -1,8 +1,8 @@
 {
     "name": "whelk/tools",
     "type": "library",
-    "require": {
-        "leo1992/tools": "dev-master"
+    "require-dev": {
+        "leo1992/tools": "dev-develop"
     },
     "license": "MIT",
     "authors": [

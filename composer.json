@@ -1,0 +1,25 @@
+{
+    "name": "whelk/tools",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "whelk",
+            "email": "964507597@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "autoload":{
+        "psr-4" : {
+            "Whelk\\" : "src/class"
+        }
+    }
+}
